@@ -1,4 +1,4 @@
-# Easy-Wi
+# Fuck You
 
 [![Dashboard](assets/img/gallery/dashboard.png)](assets/img/gallery/dashboard.png)
 
